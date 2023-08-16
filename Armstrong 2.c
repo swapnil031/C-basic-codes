@@ -8,7 +8,7 @@ temp=n;
 while(n>0)    
 {    
 r=n%10;    
-sum=sum+(r*r*r*1);    
+sum=sum+(r*r*r*1*1);    
 n=n/10;    
 }    
 if(temp==sum)    
